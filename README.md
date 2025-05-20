@@ -50,7 +50,7 @@ Django (Python)
 Flask (Python)
 Express.js (JavaScript)
 
-🔹 Database System
+### Database System
 
 PostgreSQL
 MySQL
