@@ -37,7 +37,7 @@ High-speed network connection to ensure smooth communication
 
 # Software Requirements
 
-🔹 Programming Language
+### Programming Language
 
 Python
 Java
