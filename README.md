@@ -44,7 +44,7 @@ Java
 JavaScript
 Go
 
-🔹 Web Framework (For Web-Based Chat Applications)
+### Web Framework (For Web-Based Chat Applications)
 
 Django (Python)
 Flask (Python)
