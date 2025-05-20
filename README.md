@@ -56,7 +56,7 @@ PostgreSQL
 MySQL
 MongoDB
 
-🔹 Real-Time Communication Protocol
+### Real-Time Communication Protocol
 
 WebSocket
 XMPP
