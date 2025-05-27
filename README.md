@@ -41,7 +41,7 @@ High-speed network connection to ensure smooth communication
 
 1. Python
 
-Java
+2. Java
 
 JavaScript
 
