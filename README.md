@@ -39,7 +39,7 @@ High-speed network connection to ensure smooth communication
 
 ### Programming Language
 
-Python
+1. Python
 
 Java
 
