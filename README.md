@@ -43,7 +43,7 @@ High-speed network connection to ensure smooth communication
 
 2. Java
 
-JavaScript
+3. JavaScript
 
 Go
 
