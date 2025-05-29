@@ -49,7 +49,7 @@ High-speed network connection to ensure smooth communication
 
 ### Web Framework (For Web-Based Chat Applications)
 
-Django (Python)
+1. Django (Python)
 
 Flask (Python)
 
