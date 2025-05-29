@@ -53,7 +53,7 @@ High-speed network connection to ensure smooth communication
 
 2. Flask (Python)
 
-Express.js (JavaScript)
+3. Express.js (JavaScript)
 
 ### Database System
 
