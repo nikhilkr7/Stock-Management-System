@@ -57,7 +57,7 @@ High-speed network connection to ensure smooth communication
 
 ### Database System
 
-PostgreSQL
+1. PostgreSQL
 
 MySQL
 
