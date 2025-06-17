@@ -59,7 +59,7 @@ High-speed network connection to ensure smooth communication
 
 1. PostgreSQL
 
-MySQL
+2. MySQL
 
 MongoDB
 
