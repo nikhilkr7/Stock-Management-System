@@ -76,7 +76,7 @@ MQTT
 ## ARCHITECTURE AND DESIGN
 
 ![Screenshot 2025-03-03 005402](https://github.com/user-attachments/assets/c2d2f636-10d4-4422-83e8-903a69764dad)
-# RESULTS
+## RESULTS
 ![Screenshot 2025-03-03 005509](https://github.com/user-attachments/assets/30b75894-6eaf-4e03-ae8d-e8ebce66c341)
 
 
