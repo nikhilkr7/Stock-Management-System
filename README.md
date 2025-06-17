@@ -17,7 +17,7 @@ stock prices after each transaction. Additionally, it incorporates
 error handling for invalid inputs and insufficient balances during
 transactions.
 
-# OBJECTIVE
+## OBJECTIVE
 
 The primary objective of the Stock Management System is to develop a
 comprehensive Java-based application that simulates stock trading functionalities
