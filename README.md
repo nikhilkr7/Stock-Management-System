@@ -1,5 +1,6 @@
 # Stock-Management-System
 
+## INTRODUCTION
 The Java-based Stock Trading Application is a
 simulated platform designed for users to engage in virtual stock
 trading. The application offers functionalities to buy and sell
