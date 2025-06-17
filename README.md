@@ -36,7 +36,7 @@ Server with at least 256MB RAM and 300MB disk storage
 Dedicated database server with ample disk space for chat messages and user data
 High-speed network connection to ensure smooth communication
 
-# Software Requirements
+## Software Requirements
 
 ### Programming Language
 
