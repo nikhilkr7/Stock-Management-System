@@ -71,7 +71,7 @@ High-speed network connection to ensure smooth communication
 
 2. XMPP
 
-MQTT
+3. MQTT
 
 ## ARCHITECTURE AND DESIGN
 
