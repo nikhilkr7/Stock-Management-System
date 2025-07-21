@@ -41,7 +41,7 @@ High-speed network connection to ensure smooth communication
 
 ### Programming Language
 
-1. Python
+* Python
 
 2. Java
 
