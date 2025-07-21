@@ -43,7 +43,7 @@ High-speed network connection to ensure smooth communication
 
 * Python
 
-2. Java
+* Java
 
 3. JavaScript
 
