@@ -45,7 +45,7 @@ High-speed network connection to ensure smooth communication
 
 * Java
 
-3. JavaScript
+* JavaScript
 
 4. Go
 
