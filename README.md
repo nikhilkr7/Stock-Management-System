@@ -53,7 +53,7 @@ High-speed network connection to ensure smooth communication
 
 * Django (Python)
 
-2. Flask (Python)
+* Flask (Python)
 
 3. Express.js (JavaScript)
 
