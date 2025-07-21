@@ -51,7 +51,7 @@ High-speed network connection to ensure smooth communication
 
 ### Web Framework (For Web-Based Chat Applications)
 
-1. Django (Python)
+* Django (Python)
 
 2. Flask (Python)
 
