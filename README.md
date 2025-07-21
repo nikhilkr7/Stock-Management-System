@@ -47,7 +47,7 @@ High-speed network connection to ensure smooth communication
 
 * JavaScript
 
-4. Go
+* Go
 
 ### Web Framework (For Web-Based Chat Applications)
 
