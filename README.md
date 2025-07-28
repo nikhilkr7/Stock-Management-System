@@ -61,7 +61,7 @@ High-speed network connection to ensure smooth communication
 
 * PostgreSQL
 
-2. MySQL
+* MySQL
 
 3. MongoDB
 
