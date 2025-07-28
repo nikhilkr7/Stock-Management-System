@@ -63,7 +63,7 @@ High-speed network connection to ensure smooth communication
 
 * MySQL
 
-3. MongoDB
+* MongoDB
 
 
 ### Real-Time Communication Protocol
