@@ -70,7 +70,7 @@ High-speed network connection to ensure smooth communication
 
 * WebSocket
 
-2. XMPP
+* XMPP
 
 3. MQTT
 
