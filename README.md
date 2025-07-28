@@ -68,7 +68,7 @@ High-speed network connection to ensure smooth communication
 
 ### Real-Time Communication Protocol
 
-1. WebSocket
+* WebSocket
 
 2. XMPP
 
