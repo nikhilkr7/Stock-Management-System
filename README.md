@@ -33,7 +33,7 @@ Java's Swing library, event-driven programming, data manipulation, and error
 handling.
 
 ## Hardware Requirements
-Server with at least 256MB RAM and 300MB disk storage
+* Server with at least 256MB RAM and 300MB disk storage
 Dedicated database server with ample disk space for chat messages and user data
 High-speed network connection to ensure smooth communication
 
