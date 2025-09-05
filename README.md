@@ -49,7 +49,7 @@ handling.
 
 * Go
 
-### Web Framework (For Web-Based Chat Applications)
+### 2. Web Framework (For Web-Based Chat Applications)
 
 * Django (Python)
 
