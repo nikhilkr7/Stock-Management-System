@@ -39,7 +39,7 @@ handling.
 
 ## Software Requirements
 
-### Programming Language
+### 1. Programming Language
 
 * Python
 
